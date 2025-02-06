@@ -169,6 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-Data
 Citi_Bike_Trips.html
 

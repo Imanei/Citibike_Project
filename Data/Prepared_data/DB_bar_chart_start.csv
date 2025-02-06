@@ -1,0 +1,161 @@
+,start_station_name,rideable_type,season,Total,Grand Total
+0,1 Ave & E 68 St,Classic Bike,Fall,14736,104856
+1,1 Ave & E 68 St,Classic Bike,Spring,15016,104856
+2,1 Ave & E 68 St,Classic Bike,Summer,19145,104856
+3,1 Ave & E 68 St,Classic Bike,Winter,7940,104856
+4,1 Ave & E 68 St,Electric Bike,Fall,14289,104856
+5,1 Ave & E 68 St,Electric Bike,Spring,10689,104856
+6,1 Ave & E 68 St,Electric Bike,Summer,14220,104856
+7,1 Ave & E 68 St,Electric Bike,Winter,8821,104856
+8,11 Ave & W 41 St,Classic Bike,Fall,12806,87577
+9,11 Ave & W 41 St,Classic Bike,Spring,13152,87577
+10,11 Ave & W 41 St,Classic Bike,Summer,20832,87577
+11,11 Ave & W 41 St,Classic Bike,Winter,6010,87577
+12,11 Ave & W 41 St,Electric Bike,Fall,9890,87577
+13,11 Ave & W 41 St,Electric Bike,Spring,7670,87577
+14,11 Ave & W 41 St,Electric Bike,Summer,10608,87577
+15,11 Ave & W 41 St,Electric Bike,Winter,6609,87577
+16,12 Ave & W 40 St,Classic Bike,Fall,16988,90414
+17,12 Ave & W 40 St,Classic Bike,Spring,16800,90414
+18,12 Ave & W 40 St,Classic Bike,Summer,28743,90414
+19,12 Ave & W 40 St,Classic Bike,Winter,4268,90414
+20,12 Ave & W 40 St,Electric Bike,Fall,7416,90414
+21,12 Ave & W 40 St,Electric Bike,Spring,4766,90414
+22,12 Ave & W 40 St,Electric Bike,Summer,8632,90414
+23,12 Ave & W 40 St,Electric Bike,Winter,2801,90414
+24,6 Ave & W 33 St,Classic Bike,Fall,19297,106440
+25,6 Ave & W 33 St,Classic Bike,Spring,19054,106440
+26,6 Ave & W 33 St,Classic Bike,Summer,26107,106440
+27,6 Ave & W 33 St,Classic Bike,Winter,7827,106440
+28,6 Ave & W 33 St,Electric Bike,Fall,10143,106440
+29,6 Ave & W 33 St,Electric Bike,Spring,7724,106440
+30,6 Ave & W 33 St,Electric Bike,Summer,10577,106440
+31,6 Ave & W 33 St,Electric Bike,Winter,5711,106440
+32,6 Ave & W 34 St,Classic Bike,Fall,14431,89683
+33,6 Ave & W 34 St,Classic Bike,Spring,15886,89683
+34,6 Ave & W 34 St,Classic Bike,Summer,21205,89683
+35,6 Ave & W 34 St,Classic Bike,Winter,6676,89683
+36,6 Ave & W 34 St,Electric Bike,Fall,8682,89683
+37,6 Ave & W 34 St,Electric Bike,Spring,7504,89683
+38,6 Ave & W 34 St,Electric Bike,Summer,9879,89683
+39,6 Ave & W 34 St,Electric Bike,Winter,5420,89683
+40,8 Ave & W 33 St,Classic Bike,Fall,13516,85051
+41,8 Ave & W 33 St,Classic Bike,Spring,13909,85051
+42,8 Ave & W 33 St,Classic Bike,Summer,16870,85051
+43,8 Ave & W 33 St,Classic Bike,Winter,6830,85051
+44,8 Ave & W 33 St,Electric Bike,Fall,10439,85051
+45,8 Ave & W 33 St,Electric Bike,Spring,7702,85051
+46,8 Ave & W 33 St,Electric Bike,Summer,9071,85051
+47,8 Ave & W 33 St,Electric Bike,Winter,6714,85051
+48,Broadway & E 14 St,Classic Bike,Fall,17786,98862
+49,Broadway & E 14 St,Classic Bike,Spring,18530,98862
+50,Broadway & E 14 St,Classic Bike,Summer,24584,98862
+51,Broadway & E 14 St,Classic Bike,Winter,7424,98862
+52,Broadway & E 14 St,Electric Bike,Fall,8353,98862
+53,Broadway & E 14 St,Electric Bike,Spring,7573,98862
+54,Broadway & E 14 St,Electric Bike,Summer,9217,98862
+55,Broadway & E 14 St,Electric Bike,Winter,5395,98862
+56,Broadway & E 21 St,Classic Bike,Fall,16927,95691
+57,Broadway & E 21 St,Classic Bike,Spring,17328,95691
+58,Broadway & E 21 St,Classic Bike,Summer,22674,95691
+59,Broadway & E 21 St,Classic Bike,Winter,7336,95691
+60,Broadway & E 21 St,Electric Bike,Fall,9127,95691
+61,Broadway & E 21 St,Electric Bike,Spring,7621,95691
+62,Broadway & E 21 St,Electric Bike,Summer,9012,95691
+63,Broadway & E 21 St,Electric Bike,Winter,5666,95691
+64,Broadway & W 25 St,Classic Bike,Fall,17427,98422
+65,Broadway & W 25 St,Classic Bike,Spring,16936,98422
+66,Broadway & W 25 St,Classic Bike,Summer,23405,98422
+67,Broadway & W 25 St,Classic Bike,Winter,6514,98422
+68,Broadway & W 25 St,Electric Bike,Fall,10628,98422
+69,Broadway & W 25 St,Electric Bike,Spring,7601,98422
+70,Broadway & W 25 St,Electric Bike,Summer,10384,98422
+71,Broadway & W 25 St,Electric Bike,Winter,5527,98422
+72,Broadway & W 58 St,Classic Bike,Fall,18625,114293
+73,Broadway & W 58 St,Classic Bike,Spring,16865,114293
+74,Broadway & W 58 St,Classic Bike,Summer,23213,114293
+75,Broadway & W 58 St,Classic Bike,Winter,7229,114293
+76,Broadway & W 58 St,Electric Bike,Fall,15714,114293
+77,Broadway & W 58 St,Electric Bike,Spring,10264,114293
+78,Broadway & W 58 St,Electric Bike,Summer,14987,114293
+79,Broadway & W 58 St,Electric Bike,Winter,7396,114293
+80,Central Park S & 6 Ave,Classic Bike,Fall,14547,87013
+81,Central Park S & 6 Ave,Classic Bike,Spring,16788,87013
+82,Central Park S & 6 Ave,Classic Bike,Summer,22584,87013
+83,Central Park S & 6 Ave,Classic Bike,Winter,4487,87013
+84,Central Park S & 6 Ave,Electric Bike,Fall,7931,87013
+85,Central Park S & 6 Ave,Electric Bike,Spring,7196,87013
+86,Central Park S & 6 Ave,Electric Bike,Summer,9667,87013
+87,Central Park S & 6 Ave,Electric Bike,Winter,3813,87013
+88,Cleveland Pl & Spring St,Classic Bike,Fall,13849,90973
+89,Cleveland Pl & Spring St,Classic Bike,Spring,14306,90973
+90,Cleveland Pl & Spring St,Classic Bike,Summer,21700,90973
+91,Cleveland Pl & Spring St,Classic Bike,Winter,6030,90973
+92,Cleveland Pl & Spring St,Electric Bike,Fall,10429,90973
+93,Cleveland Pl & Spring St,Electric Bike,Spring,7584,90973
+94,Cleveland Pl & Spring St,Electric Bike,Summer,11045,90973
+95,Cleveland Pl & Spring St,Electric Bike,Winter,6030,90973
+96,E 33 St & 1 Ave,Classic Bike,Fall,15783,91003
+97,E 33 St & 1 Ave,Classic Bike,Spring,14262,91003
+98,E 33 St & 1 Ave,Classic Bike,Summer,19406,91003
+99,E 33 St & 1 Ave,Classic Bike,Winter,7300,91003
+100,E 33 St & 1 Ave,Electric Bike,Fall,10397,91003
+101,E 33 St & 1 Ave,Electric Bike,Spring,7712,91003
+102,E 33 St & 1 Ave,Electric Bike,Summer,9382,91003
+103,E 33 St & 1 Ave,Electric Bike,Winter,6761,91003
+104,E 40 St & Park Ave,Classic Bike,Fall,14122,85598
+105,E 40 St & Park Ave,Classic Bike,Spring,13233,85598
+106,E 40 St & Park Ave,Classic Bike,Summer,17369,85598
+107,E 40 St & Park Ave,Classic Bike,Winter,5932,85598
+108,E 40 St & Park Ave,Electric Bike,Fall,11130,85598
+109,E 40 St & Park Ave,Electric Bike,Spring,7700,85598
+110,E 40 St & Park Ave,Electric Bike,Summer,10020,85598
+111,E 40 St & Park Ave,Electric Bike,Winter,6092,85598
+112,Lafayette St & E 8 St,Classic Bike,Fall,18313,87457
+113,Lafayette St & E 8 St,Classic Bike,Spring,14712,87457
+114,Lafayette St & E 8 St,Classic Bike,Summer,24515,87457
+115,Lafayette St & E 8 St,Classic Bike,Winter,5872,87457
+116,Lafayette St & E 8 St,Electric Bike,Fall,7522,87457
+117,Lafayette St & E 8 St,Electric Bike,Spring,5260,87457
+118,Lafayette St & E 8 St,Electric Bike,Summer,7384,87457
+119,Lafayette St & E 8 St,Electric Bike,Winter,3879,87457
+120,University Pl & E 14 St,Classic Bike,Fall,18968,97120
+121,University Pl & E 14 St,Classic Bike,Spring,15711,97120
+122,University Pl & E 14 St,Classic Bike,Summer,20978,97120
+123,University Pl & E 14 St,Classic Bike,Winter,8080,97120
+124,University Pl & E 14 St,Electric Bike,Fall,10960,97120
+125,University Pl & E 14 St,Electric Bike,Spring,7306,97120
+126,University Pl & E 14 St,Electric Bike,Summer,8673,97120
+127,University Pl & E 14 St,Electric Bike,Winter,6444,97120
+128,W 21 St & 6 Ave,Classic Bike,Fall,26530,129016
+129,W 21 St & 6 Ave,Classic Bike,Spring,21634,129016
+130,W 21 St & 6 Ave,Classic Bike,Summer,30142,129016
+131,W 21 St & 6 Ave,Classic Bike,Winter,12019,129016
+132,W 21 St & 6 Ave,Electric Bike,Fall,12644,129016
+133,W 21 St & 6 Ave,Electric Bike,Spring,8013,129016
+134,W 21 St & 6 Ave,Electric Bike,Summer,10537,129016
+135,W 21 St & 6 Ave,Electric Bike,Winter,7497,129016
+136,W 31 St & 7 Ave,Classic Bike,Fall,16148,94208
+137,W 31 St & 7 Ave,Classic Bike,Spring,14700,94208
+138,W 31 St & 7 Ave,Classic Bike,Summer,19864,94208
+139,W 31 St & 7 Ave,Classic Bike,Winter,6615,94208
+140,W 31 St & 7 Ave,Electric Bike,Fall,11513,94208
+141,W 31 St & 7 Ave,Electric Bike,Spring,8511,94208
+142,W 31 St & 7 Ave,Electric Bike,Summer,10525,94208
+143,W 31 St & 7 Ave,Electric Bike,Winter,6332,94208
+144,West St & Chambers St,Classic Bike,Fall,25281,123289
+145,West St & Chambers St,Classic Bike,Spring,23466,123289
+146,West St & Chambers St,Classic Bike,Summer,37374,123289
+147,West St & Chambers St,Classic Bike,Winter,6188,123289
+148,West St & Chambers St,Electric Bike,Fall,9396,123289
+149,West St & Chambers St,Electric Bike,Spring,7170,123289
+150,West St & Chambers St,Electric Bike,Summer,10325,123289
+151,West St & Chambers St,Electric Bike,Winter,4089,123289
+152,West St & Liberty St,Classic Bike,Fall,17403,87657
+153,West St & Liberty St,Classic Bike,Spring,15801,87657
+154,West St & Liberty St,Classic Bike,Summer,25652,87657
+155,West St & Liberty St,Classic Bike,Winter,4909,87657
+156,West St & Liberty St,Electric Bike,Fall,7242,87657
+157,West St & Liberty St,Electric Bike,Spring,5602,87657
+158,West St & Liberty St,Electric Bike,Summer,7918,87657
+159,West St & Liberty St,Electric Bike,Winter,3130,87657
