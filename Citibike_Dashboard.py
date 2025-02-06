@@ -41,8 +41,8 @@ accent = '#EB392A'
 #########################################################################################
 
 folderpath = "Data/Prepared_data"
-picturepath = "Visualizations/"
-path_to_html = "./Citi_Bike_Trips.html"
+picturepath = "Visualizations"
+path_to_html = "Citi_Bike_Trips.html"
 
 line_chart_data = pd.read_csv(os.path.join(folderpath, 'DB_line_chart_data.csv'), index_col = 0)
 bar_chart_start = pd.read_csv(os.path.join(folderpath, 'DB_bar_chart_start.csv'), index_col = 0)
