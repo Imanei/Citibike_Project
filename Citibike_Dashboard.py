@@ -41,7 +41,7 @@ accent = '#EB392A'
 #########################################################################################
 
 folderpath = "Data/Prepared_data"
-picturepath = "Visualizations/"
+picturepath = "Visualizations/Dashboard_img"
 path_to_html = "Citi_Bike_Trips2.html"
 
 line_chart_data = pd.read_csv(os.path.join(folderpath, 'DB_line_chart_data.csv'), index_col = 0)
@@ -96,7 +96,7 @@ if page == 'Intro Page':
     )
        
     with col2:
-        myImage = Image.open(os.path.join(picturepath, 'citibike_Dashboard.jpg')) 
+        myImage = Image.open(os.path.join(picturepath, 'Citibike_Dashboard.jpg')) 
         #source: https://www.freepik.com/free-vector/happy-young-family-riding-bikes-park_7416563.htm#fromView=search&page=1&position=30&uuid=f1e4be12-be3f-43c3-9cf6-13f8f06ce3de&query=citibike
         st.image(myImage)
 
@@ -480,7 +480,7 @@ else:
     col1, col2 = st.columns(2)
     with col1:
         myImage2 = Image.open(os.path.join(picturepath,'Citibike_Dashboard.jpg')) 
-        #source: https://unsplash.com/photos/bicycles-parked-on-the-side-of-a-street-KcOoW1Tv06Q
+        #source: https://www.freepik.com/free-vector/happy-young-family-riding-bikes-park_7416563.htm#fromView=search&page=1&position=30&uuid=f1e4be12-be3f-43c3-9cf6-13f8f06ce3de&query=citibike
         st.image(myImage2)
 
         
